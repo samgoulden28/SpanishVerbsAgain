@@ -1,4 +1,4 @@
-package com.spanishverbsagain
+package com.samg.spanishverbs
 
 import android.app.Application
 import com.facebook.react.PackageList

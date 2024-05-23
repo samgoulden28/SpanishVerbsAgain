@@ -1,4 +1,4 @@
-package com.spanishverbsagain
+package com.samg.spanishverbs
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
